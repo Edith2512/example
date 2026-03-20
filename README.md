@@ -1,4 +1,7 @@
 "# example" 
+# Mi primer ejercicio de markdow H1
+Este ejercicio es para practicar lenguaje de marcado MD o Markdown
+## Texto de enfasis (Negrita e Italica)
 
 ## Tabla
 
