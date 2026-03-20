@@ -2,7 +2,6 @@
 Este ejercicio es para practicar lenguaje de marcado MD o Markdown
 
 ## Texto de enfasis (Negrita e Italica)
-
 *Italica*
 
 **Negritas o BOLD**
@@ -16,16 +15,19 @@ Este ejercicio es para practicar lenguaje de marcado MD o Markdown
 | celda A1  | celda B1  |
 
 ## Imagen
-![Esto es el texto alternativo](https://media2.giphy.com/media/
-v1.Y21kPTc5MGI3NjExaTduanN1MG01Nmp1b2Z6c25qYnV2cwkwdTQzamQzYzdrZDF5bzV40CZ1cD12MV9pbnRlcm5hbF9naWZfYnlfaWQm
-Y3Q9Zw/hQBN5vPDbw035/giphy.gif)
+![Esto es el texto alternativo](https://images.ctfassets.net/l3l0sjr15nav/s2K9yCEC7eozC7ANdKDor/3943244c6252151d8670c686fee8b302/2020.06.11_-_Como_hacer_un_GIF.gif)
 
+## Listas
+Se pueden hacer dos tipos de listas. Ordenadas y no ordenadas
 
+### Listas ordenadas
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
 
+### Listas no ordenadas
+Elemento 1
 
+Elemento 2
 
-# Titulo H1
-soy un parrafo normal
-### Subtitulo H1
-soy un parrafo normal
-
+Elemento 3
